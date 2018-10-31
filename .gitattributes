@@ -44,3 +44,15 @@ BA-Obenaus.pdf filter=lfs diff=lfs merge=lfs -text
 book[[:space:]]of[[:space:]]card[[:space:]]games.pdf filter=lfs diff=lfs merge=lfs -text
 comparison_algorithms.pdf filter=lfs diff=lfs merge=lfs -text
 icec10.pdf filter=lfs diff=lfs merge=lfs -text
+0905.4698.pdf filter=lfs diff=lfs merge=lfs -text
+1001.1017.pdf filter=lfs diff=lfs merge=lfs -text
+1007.1371.pdf filter=lfs diff=lfs merge=lfs -text
+CGCloud2013[[:space:]]-[[:space:]]Herzig.pdf filter=lfs diff=lfs merge=lfs -text
+Website-Playing[[:space:]]Cards.pdf filter=lfs diff=lfs merge=lfs -text
+0206167.pdf filter=lfs diff=lfs merge=lfs -text
+0503233.pdf filter=lfs diff=lfs merge=lfs -text
+0606031.pdf filter=lfs diff=lfs merge=lfs -text
+Ivan[[:space:]]Leung,[[:space:]]Pedro[[:space:]]Milani,[[:space:]]Ben-han[[:space:]]Sung,[[:space:]]SkatBot.pdf filter=lfs diff=lfs merge=lfs -text
+Math[[:space:]]Card[[:space:]]Games[[:space:]]for[[:space:]]k-6.pdf filter=lfs diff=lfs merge=lfs -text
+SR[[:space:]]EN[[:space:]]4.pdf filter=lfs diff=lfs merge=lfs -text
+book[[:space:]]of[[:space:]]card[[:space:]]games.pdf filter=lfs diff=lfs merge=lfs -text
